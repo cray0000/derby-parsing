@@ -19,8 +19,8 @@
     "url": "https://github.com/codeparty/derby-parsing/issues"
   },
   "dependencies": {
-    "derby-templates": "~0.0.1",
-    "esprima-derby": "~1.1.0-dev",
+    "derby-templates": "git://github.com/vmakhaev/derby-templates#master",
+    "esprima-derby": "git://github.com/codeparty/esprima-derby",
     "html-util": "~0.1.5"
   },
   "devDependencies": {
